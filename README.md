@@ -4,7 +4,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moaalaa&show_icons=true&count_private=true&include_all_commits=true" alt="moaalaa" /></p>
 
-<hr>
+<h3 align="left">About Me:</h3>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaalaa&layout=compact" alt="moaalaa" /></p>
 
