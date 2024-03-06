@@ -75,8 +75,11 @@
     <a href="https://www.php.net" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
     </a>
-    <a href="https://laravel.com/" target="_blank"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> 
+    <a href="https://laravel.com" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> 
+    </a>
+    <a href="https://livewire.laravel.com" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original-wordmark.svg" alt="livewire" width="40" height="40" /> 
     </a>
     <a href="https://nodejs.org" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /> 
@@ -131,8 +134,8 @@
 </p>
 <hr>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=moaalaa&show_icons=true&count_private=true&include_all_commits=true" alt="moaalaa" />
+    <img align="center" src="https://my-github-readme-stats-sooty.vercel.app/api?username=moaalaa&show_icons=true&count_private=true&include_all_commits=true" alt="moaalaa" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaalaa&layout=compact&langs_count=30" alt="moaalaa" />
+    <img align="center" src="https://my-github-readme-stats-sooty.vercel.app/api/top-langs/?username=moaalaa&layout=compact&langs_count=30" alt="moaalaa" />
 </p>
