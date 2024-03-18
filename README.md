@@ -56,7 +56,10 @@
         <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="chartjs" width="40" height="40" />
     </a>
     <h4 align="left">Frontend & JS Frameworks:</h4>
-	<a href="https://angular.io" target="_blank"> 
+<a href="https://alpinejs.dev/" target="_blank"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="Alpine Js" width="40" height="40" /> 
+    </a>
+<a href="https://angular.io" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" /> 
     </a>
     <a href="https://reactjs.org/" target="_blank"> 
