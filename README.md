@@ -137,7 +137,7 @@
 </p>
 <hr>
 <p align="center">
-    <img align="center" src="https://my-github-readme-stats-sooty.vercel.app/api?username=moaalaa&show_icons=true&count_private=true&include_all_commits=true" alt="moaalaa" />
+    <img align="center" src="https://my-github-readme-stats-sooty.vercel.app/api?username=moaalaa&show_icons=true&include_all_commits=true" alt="moaalaa" />
 </p>
 <p align="center">
     <img align="center" src="https://my-github-readme-stats-sooty.vercel.app/api/top-langs/?username=moaalaa&layout=compact&langs_count=30" alt="moaalaa" />
