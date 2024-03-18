@@ -15,13 +15,13 @@
         📞 Contact Me
     </a>
     <a href="https://twitter.com/alaamoa" target="blank">
-        <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="alaamoa" height="30" width="40" />
+        <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Mohamed Alaa El-Din Mohamed" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/mohamed-alaa-el-din-mohamed" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohamed-alaa-el-din-mohamed" height="30" width="40" />
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Mohamed Alaa El-Din Mohamed" height="30" width="40" />
     </a>
-    <a href="https://fb.com/alaadragneel" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="alaadragneel" height="30" width="40" />
+    <a href="https://www.facebook.com/MoaAlaaElDin?mibextid=ZbWKwL" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Mohamed Alaa El-Din Mohamed" height="30" width="40" />
     </a>
 </p>
 <hr>
